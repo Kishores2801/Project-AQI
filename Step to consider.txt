@@ -1,0 +1,5 @@
+AQI
+1. Data Collection from Multiple sources
+    - Web scraping
+    -
+2. Preprocessing data (feature engineering)
